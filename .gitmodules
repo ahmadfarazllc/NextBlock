@@ -1,0 +1,6 @@
+[submodule "openzeppeline/contracts/contracts"]
+	path = openzeppeline/contracts/contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts.git
+[submodule "openzeppeline/contracts/contracts-upgradeable"]
+	path = openzeppeline/contracts/contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable.git

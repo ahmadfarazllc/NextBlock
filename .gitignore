@@ -1,0 +1,17 @@
+node_modules
+.env
+
+# Hardhat files
+/cache
+/artifacts
+
+#TypeChain files
+/TypeChain/typechain-types
+
+
+# silidity-covergae files
+/covergae
+/covergae.json
+
+#Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-31337
